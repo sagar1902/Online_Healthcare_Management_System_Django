@@ -1,0 +1,5 @@
+hospital/__pycache__/
+hospital/migrations/
+hospitalmanagement/__pycache__/
+pdf/
+env/
